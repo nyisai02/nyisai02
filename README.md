@@ -16,15 +16,14 @@
 
   <!-- 📊 GitHub Summary -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyisai02&theme=dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyisai02&theme=tokyonight" 
     alt="Contribution Overview" 
     width="700"
     style="margin: 10px;"
   />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyisai02&count_private=true&theme=dark&border_radius=10" width="390" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=nyisai02&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" width="390"  />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyisai02&count_private=true&theme=tokyonight" width="650" />
 </div>
 <hr/>
 <br>
