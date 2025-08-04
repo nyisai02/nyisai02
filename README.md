@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=7FFF00&center=true&vCenter=true&width=650&height=70&lines=Hey+there!+%F0%9F%91%8B;I'm+Nyi+Nyi+Sai+(Leion)+%F0%9F%A7%A0;Crafting+Code+with+Purpose+%F0%9F%9A%80" />
+</h1>
 
-<!--
-**nyisai02/nyisai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <strong style="font-size: 20px;">🌟 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Developer Intern</span> & Student</strong>
+  <br>
+  🎓 <span style="color: #ff6a00;">Digital Tech</span> @ <strong>Kasem Bundit</strong> &nbsp;|&nbsp; 🛡️ <span style="color: #0077b6;">Cybersecurity</span> @ <strong>CU Boulder</strong>
+  <br>
+  🚀 Passionate about building <em>scalable systems</em>,  Learning AI  ⚙️🎨
+</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <!-- 📊 GitHub Summary -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyisai02&theme=dark" 
+    alt="Contribution Overview" 
+    width="700"
+    style="margin: 10px;"
+  />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyisai02&count_private=true&theme=dark&border_radius=10" width="390" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=nyisai02&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" width="390"  />
+</div>
+<hr/>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
