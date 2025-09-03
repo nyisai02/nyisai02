@@ -12,21 +12,6 @@
 
 <br>
 
-<div align="center">
-
-  <!-- 📊 GitHub Summary -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyisai02&theme=tokyonight" 
-    alt="Contribution Overview" 
-    width="700"
-    style="margin: 10px;"
-  />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyisai02&count_private=true&theme=tokyonight" width="650" />
-</div>
-<hr/>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
