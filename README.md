@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <strong style="font-size: 20px;">🌟 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Developer Intern</span> & Student</strong>
+  <strong style="font-size: 20px;">🌟 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Junior Full Stack Developer & Student</strong>
   <br>
   🎓 <span style="color: #ff6a00;">Digital Tech</span> @ <strong>Kasem Bundit</strong> &nbsp;|&nbsp; 🛡️ <span style="color: #0077b6;">Cybersecurity</span> @ <strong>CU Boulder</strong>
   <br>
